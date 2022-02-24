@@ -22,8 +22,8 @@ function cnf($v = "cnf") {
 $cnf["Grupo"] = array(
                 'host' => 'localhost',
                 'db' => 'kf_chat',
-                'user' => 'root',
-                'pass' => 'ea4gnr009',
+                'user' => 'arman',
+                'pass' => 'secret',
                 'prefix' => 'gr_'
                 );
 if ($v == "all") {
